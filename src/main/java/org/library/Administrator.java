@@ -1,2 +1,5 @@
-package org.library;public class Administrator {
+package org.library;
+
+public class Administrator extends AuthorizedUser{
+
 }
